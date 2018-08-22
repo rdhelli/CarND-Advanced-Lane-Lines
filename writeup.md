@@ -28,11 +28,6 @@ The goals / steps of this project are the following:
 [image9]: ./output_images/test3_4polyband.jpg "polynomial band based search"
 [image10]: ./output_images/test3_5birdeyelanes.jpg "resulting polynomials"
 [image11]: ./output_images/test3_result.jpg "results transformed back to road image"
-[image12]: ./output_images/.jpg " "
-[image13]: ./output_images/.jpg " "
-[image14]: ./output_images/.jpg " "
-[image15]: ./output_images/.jpg " "
-[image16]: ./output_images/.jpg " "
 [video1]: ./output.mp4 "Video"
 
 ## [Rubric](https://review.udacity.com/#!/rubrics/571/view) Points
@@ -130,7 +125,7 @@ In order to make use of the positions, we have to transform the lines back, with
 
 #### 4.1. Provide a link to your final video output.  Your pipeline should perform reasonably well on the entire project video (wobbly lines are ok but no catastrophic failures that would cause the car to drive off the road!).
 
-Here's a [link to my video result](./project_video.mp4)
+Here's a [link to my video result](./output.mp4)
 
 ---
 
