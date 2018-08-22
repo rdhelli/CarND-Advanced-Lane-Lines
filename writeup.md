@@ -33,7 +33,7 @@ The goals / steps of this project are the following:
 [image14]: ./output_images/.jpg " "
 [image15]: ./output_images/.jpg " "
 [image16]: ./output_images/.jpg " "
-[video1]: ./project_video.mp4 "Video"
+[video1]: ./output.mp4 "Video"
 
 ## [Rubric](https://review.udacity.com/#!/rubrics/571/view) Points
 
