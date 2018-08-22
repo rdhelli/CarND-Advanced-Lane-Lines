@@ -19,7 +19,7 @@ The goals / steps of this project are the following:
 
 [image1]: ./output_images/calibration2_1chbrd.jpg "checkered chess board"
 [image2]: ./output_images/calibration2_2undist.jpg "undistorted chess board"
-[image3]: ./test_images/straight_lines1.jpg.jpg "distorted road"
+[image3]: ./test_images/straight_lines1.jpg "distorted road"
 [image4]: ./output_images/straight_lines2_1roi.jpg "undistorted road"
 [image5]: ./output_images/straight_lines2_1warped.jpg "top-down perspective"
 [image6]: ./output_images/test5_1warped.jpg "before binary thresholding"
